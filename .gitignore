@@ -135,3 +135,6 @@ output/bow/lumped/plots/*
 
 # QGIS
 qgis/
+
+# pysumma run metadata
+.pysumma/
