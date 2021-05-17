@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+output/bow/lumped/plots/*
+
+
+# MacOS 
+*.DS_Store
+
+# QGIS
+qgis/
